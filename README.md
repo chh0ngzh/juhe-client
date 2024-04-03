@@ -1,2 +1,2 @@
-# juhe-client
-聚合搜索前端
+# Juhe Client
+一个最基本的聚合搜索前端
